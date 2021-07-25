@@ -177,8 +177,8 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 # Disable window titlebars
-for_window [class="^.*"] border pixel 1
-
+for_window [class="^.*"] border pixel 2
+client.focused #e68437 #e68437 #e68437 #e68437     #e68437
 gaps inner 10
 gaps outer 10
 
