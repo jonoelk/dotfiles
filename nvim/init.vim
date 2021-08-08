@@ -46,8 +46,9 @@ set nowrap
 set smartcase
 "set hlsearch
 set noerrorbells
-set tabstop=4 softtabstop=2
-set shiftwidth=2
+set tabstop=4 
+"set softtabstop=2
+set shiftwidth=4
 set expandtab
 set smarttab
 set smartindent
